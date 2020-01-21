@@ -1,3 +1,4 @@
+'''로컬 컴퓨터와 PythonAnywhere의 데이터베이스는 동기화되지 않습니다.'''
 from django.db import models
 from django.conf import settings
 from django.utils import timezone
